@@ -13,5 +13,5 @@ deploy:
   on:
     branch: master
 script:
-  
-  - chmod +x ./scripts/deploy.sh
+   - npm start
+ 
